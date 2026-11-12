@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "LPR 4-тен жұмыс жүктелді"
+git remote add origin https://github.com/AlmazT272/lpr4.git
+git branch -M main
+git push -u origin main
